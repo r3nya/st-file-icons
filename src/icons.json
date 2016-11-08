@@ -829,6 +829,19 @@
       }
     ]
   },
+  "file_type_stylint": {
+    "color": "graphite",
+    "syntaxes": [
+      {
+        "name": "Stylelint",
+        "extensions": [
+          ".stylelintrc"
+        ],
+        "base": "source.json",
+        "scope": "source.json.stylelint"
+      }
+    ]
+  },
   "file_type_stylus": {
     "color": "green",
     "syntaxes": [
