@@ -833,7 +833,7 @@
     "color": "graphite",
     "aliases": [
       {
-        "name": "Stylelint",
+        "name": "JSON (Stylelint)",
         "extensions": [
           ".stylelintrc"
         ],
